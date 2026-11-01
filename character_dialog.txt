@@ -1,0 +1,9 @@
+string1*Gregory: 'Welcome to my world!'
+
+string2*Gregory: 'I've been waiting for your arrival.'
+
+string3*Gregory: 'I love running.'
+
+string4*Gregory: 'I don't know how to do anything else.'
+
+string5*Gregory: 'Goodbye!'
