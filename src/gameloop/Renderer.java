@@ -19,10 +19,6 @@ import Data.gameString;
 public class Renderer{
 	
 	public static void render(Graphics g, List<gameString> gs, Sprites sps, Sprites overlays, float alpha, boolean isFade){
-		/* This is a generic function that can start fresh for any new gaming project.
-		 * All one has to do is wipe the contents and start new and it should work fine
-		 * with the rest of the game engine. */
-		
 		// First sprites...
 		Iterator<Sprite> it = sps.getIterator();
 		while(it.hasNext()){
